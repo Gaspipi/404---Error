@@ -49,6 +49,7 @@ fieldset{
     margin: auto;
   }
 #homepage-button{
+  margin-top: 30px;
     display:flex;
     font-family: 'bantayog-regular';
     min-height: 40px;
