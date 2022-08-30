@@ -28,22 +28,23 @@ fieldset{
     margin: 0 15px;
     min-width: 600px;
 }
-#div-error-message {
+#div-error-image {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    padding: 0 20px;
+    margin: 0;
   }
   img{
     max-width: 470px;
   }
-#second-error-message {
+#text-error-message {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
     justify-content: center;
-
+    margin: auto;
   }
 #homepage-button{
     display:flex;
