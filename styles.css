@@ -17,6 +17,9 @@ h1{
     margin: 0.5em auto;
     text-align: left;    
 }
+p{
+  color: gray;
+}
 #tit {
     font-weight: bolder;
     font-family: 'bantayog-regular';
