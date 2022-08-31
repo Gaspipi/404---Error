@@ -18,19 +18,19 @@ h1{
 p{
   color: gray;
 }
-#tit {
+.tit {
     font-weight: bolder;
     font-family: 'bantayog-regular';
 
 }
-#field{
+.field{
     background-color: white;
     text-align: left;
     border: none ;
     padding: 2rem 0;
     margin: auto;
 }
-#div-error-image {
+.div-error-image {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -40,14 +40,14 @@ p{
   img{
     max-width: 470px;
   }
-#text-error-message {
+.text-error-message {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
     margin-left: 20px;
   }
-#homepage-button{
+.homepage-button{
   margin-top: 30px;
     display:flex;
     font-family: 'bantayog-regular';
